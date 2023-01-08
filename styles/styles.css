@@ -1,5 +1,7 @@
-html
+body
 {
+    background-color: rgb(233,215,207);
+    margin: 50px;
     text-align: center;
 }
 h1
@@ -11,10 +13,16 @@ h1
 
 p
 {
-    font-family: 'Open Sans', sans-serif;
     color: #534b4b;
+    font-family: 'Open Sans', sans-serif;
     text-align: center;
 } 
+
+img {
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+}
 
 a
 {
