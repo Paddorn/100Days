@@ -1,3 +1,7 @@
+header{
+    margin-bottom: 64
+}
+
 h1{
     color: rgb(71, 62, 62);
     font-size: 48px;
@@ -6,8 +10,11 @@ h1{
 
 #description {
     margin-bottom: 36px;
-    
+
 }
+ /* header p{
+    margin-bottom: 36px;
+ } */
 
 a{
     background-color: rgb(167, 1, 78);
@@ -33,4 +40,19 @@ li{
     border-radius: 6px;
     margin: 32px;
     padding: 16px;
+}
+
+h2{
+    color: rgb(78,13,5);
+    font-family: sans-serif;
+}
+
+main p {
+    color: rgb(71,29,22);
+    margin: 12px;
+}
+
+.highlight-goal
+{
+    background-color: rgb(251, 115, 101);
 }
