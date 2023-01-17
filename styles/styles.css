@@ -1,22 +1,19 @@
 body
 {
     background-color: rgb(233,215,207);
+    color:rgb(83,75,75);
     margin: 50px;
     text-align: center;
 }
 h1
 {
-    color: #534b4b;
     font-family: 'Oswald';
-    text-align: center;
 }
 
 p
 {
-    color: #534b4b;
     font-family: 'Open Sans', sans-serif;
-    text-align: center;
-} 
+}  
 
 img {
     border-radius: 100px;
